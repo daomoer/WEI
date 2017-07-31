@@ -1,0 +1,6 @@
+framework module WEI {
+  umbrella header "WEI.h"
+
+  export *
+  module * { export * }
+}
